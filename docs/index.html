@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>シアターキノ 上映時間</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=BIZ+UDPGothic:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f2f4f3;
+    --surface: #ffffff;
+    --ink: #1e2b31;
+    --muted: #66757b;
+    --rule: #d5dcda;
+    --velvet: #8c2f3f;
+    --velvet-soft: #f3e4e6;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #141b1f; --surface: #1b2428; --ink: #e5ebe9; --muted: #93a1a6;
+      --rule: #2d383d; --velvet: #e58a97; --velvet-soft: #3a2429;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #141b1f; --surface: #1b2428; --ink: #e5ebe9; --muted: #93a1a6;
+    --rule: #2d383d; --velvet: #e58a97; --velvet-soft: #3a2429;
+    color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "BIZ UDPGothic", "Hiragino Sans", "Yu Gothic", system-ui, sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  .wrap { max-width: 40rem; margin: 0 auto; padding: 1.25rem 1rem 3rem; }
+
+  header p { margin: 0; color: var(--muted); font-size: .875rem; }
+  header h1 { margin: .15rem 0 1rem; font-size: 2rem; line-height: 1.2; letter-spacing: .02em; }
+
+  /* 日付の帯 */
+  .days {
+    display: flex; gap: .375rem; overflow-x: auto; padding-bottom: .5rem;
+    scroll-snap-type: x proximity; margin: 0 -1rem; padding-left: 1rem; padding-right: 1rem;
+  }
+  .days button {
+    flex: 0 0 auto; scroll-snap-align: start;
+    min-width: 3.4rem; padding: .4rem .5rem;
+    border: 1px solid var(--rule); border-radius: .5rem;
+    background: var(--surface); color: var(--ink);
+    font: inherit; line-height: 1.25; cursor: pointer; text-align: center;
+  }
+  .days button small { display: block; font-size: .75rem; color: var(--muted); }
+  .days button b { font-size: 1.125rem; }
+  .days button.sun small { color: #c0392b; }
+  .days button.sat small { color: #2e6fb5; }
+  .days button[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+  .days button[aria-pressed="true"] small { color: inherit; }
+  .days button .today { display: block; font-size: .625rem; color: var(--velvet); }
+  .days button[aria-pressed="true"] .today { color: inherit; }
+
+  .views { display: flex; gap: 1rem; margin: 1rem 0 .5rem; border-bottom: 1px solid var(--rule); }
+  .views button {
+    background: none; border: 0; padding: .5rem 0; font: inherit; color: var(--muted); cursor: pointer;
+    border-bottom: 3px solid transparent; margin-bottom: -1px;
+  }
+  .views button[aria-pressed="true"] { color: var(--ink); font-weight: 700; border-color: var(--velvet); }
+
+  button:focus-visible, summary:focus-visible, a:focus-visible { outline: 3px solid var(--velvet); outline-offset: 2px; }
+
+  /* 時間順 */
+  ol.timeline { list-style: none; margin: 0; padding: 0; }
+  .show {
+    display: grid; grid-template-columns: 5.25rem 1fr; gap: .75rem;
+    padding: .9rem 0; border-bottom: 1px solid var(--rule);
+  }
+  .show time.start {
+    font-size: 1.75rem; font-weight: 700; line-height: 1.1;
+    font-variant-numeric: tabular-nums; letter-spacing: -.01em;
+  }
+  .show .title { font-weight: 700; font-size: 1.0625rem; line-height: 1.4; }
+  .show .sub { color: var(--muted); font-size: .875rem; }
+  .show .work { font-size: .9375rem; }
+  .show.past { opacity: .45; }
+  .show.next { position: relative; }
+  .show.next::before {
+    content: ""; position: absolute; left: -.75rem; top: .75rem; bottom: .75rem;
+    width: 4px; border-radius: 2px; background: var(--velvet);
+  }
+  .tag {
+    display: inline-block; font-size: .75rem; line-height: 1; padding: .3rem .45rem; border-radius: .25rem;
+    background: var(--velvet-soft); color: var(--velvet); margin-right: .25rem; vertical-align: .1em;
+    font-weight: 700;
+  }
+
+  details { margin-top: .35rem; }
+  summary { cursor: pointer; color: var(--muted); font-size: .8125rem; }
+  details ul { margin: .35rem 0 0; padding-left: 1.1rem; font-size: .875rem; color: var(--muted); }
+
+  /* 作品別 */
+  .film { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
+  .film h2 { font-size: 1.125rem; margin: 0 0 .5rem; line-height: 1.4; }
+  .film .times { display: flex; flex-wrap: wrap; gap: .5rem; }
+  .film .times span {
+    font-variant-numeric: tabular-nums; font-size: 1.125rem; font-weight: 700;
+    padding: .2rem .6rem; border: 1px solid var(--rule); border-radius: .375rem; background: var(--surface);
+  }
+  .film .times span small { font-weight: 400; color: var(--muted); font-size: .8125rem; margin-left: .25rem; }
+  .film .times span.past { opacity: .45; }
+
+  .empty, .error { padding: 2rem 0; color: var(--muted); }
+  footer { margin-top: 2rem; font-size: .8125rem; color: var(--muted); }
+  footer a { color: inherit; }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .days { scroll-behavior: smooth; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p>シアターキノ 上映時間</p>
+    <h1 id="heading">読み込み中</h1>
+  </header>
+
+  <nav class="days" id="days" aria-label="日付を選ぶ"></nav>
+
+  <div class="views" role="group" aria-label="表示の切り替え">
+    <button type="button" data-view="time" aria-pressed="true">時間順</button>
+    <button type="button" data-view="film" aria-pressed="false">作品別</button>
+  </div>
+
+  <main id="list"></main>
+
+  <footer>
+    <p id="updated"></p>
+    <p>上映時間は変更になる場合があります。最新情報は<a id="official" href="https://www.theaterkino.net/tt.html" rel="noopener">公式サイト</a>で確認してください。</p>
+  </footer>
+</div>
+
+<script>
+const WEEK = ["日", "月", "火", "水", "木", "金", "土"];
+const state = { data: null, days: [], selected: null, view: "time" };
+
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+function todayJST() {
+  const now = new Date(Date.now() + 9 * 3600 * 1000);
+  return now.toISOString().slice(0, 10);
+}
+function nowMinutesJST() {
+  const now = new Date(Date.now() + 9 * 3600 * 1000);
+  return now.getUTCHours() * 60 + now.getUTCMinutes();
+}
+const toMin = (t) => { const [h, m] = t.split(":").map(Number); return h * 60 + m; };
+const parseDate = (iso) => { const [y, m, d] = iso.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d)); };
+function label(iso) {
+  const d = parseDate(iso);
+  return `${d.getUTCMonth() + 1}月${d.getUTCDate()}日(${WEEK[d.getUTCDay()]})`;
+}
+
+async function load() {
+  try {
+    const res = await fetch("schedule.json", { cache: "no-cache" });
+    if (!res.ok) throw new Error(res.status);
+    state.data = await res.json();
+  } catch (e) {
+    $("heading").textContent = "上映時間を読み込めません";
+    $("list").innerHTML = `<p class="error">schedule.json が見つかりませんでした。公式サイトの上映時間ページを確認してください。</p>`;
+    return;
+  }
+
+  const set = new Set();
+  for (const w of state.data.weeks) {
+    let d = parseDate(w.start);
+    const end = parseDate(w.end);
+    while (d <= end) { set.add(d.toISOString().slice(0, 10)); d = new Date(d.getTime() + 86400000); }
+  }
+  state.days = [...set].sort();
+  const today = todayJST();
+  state.selected = state.days.includes(today) ? today : (state.days.find((d) => d > today) ?? state.days[0]);
+
+  $("updated").textContent = `データ更新: ${state.data.generated_at.replace("T", " ").slice(0, 16)}`;
+  if (state.data.official_url) $("official").href = state.data.official_url;
+
+  renderDays();
+  render();
+}
+
+function renderDays() {
+  const today = todayJST();
+  $("days").innerHTML = state.days.map((iso) => {
+    const d = parseDate(iso);
+    const dow = d.getUTCDay();
+    const cls = dow === 0 ? "sun" : dow === 6 ? "sat" : "";
+    return `<button type="button" class="${cls}" data-date="${iso}" aria-pressed="${iso === state.selected}">
+      <small>${WEEK[dow]}</small><b>${d.getUTCDate()}</b>${iso === today ? '<span class="today">今日</span>' : ""}
+    </button>`;
+  }).join("");
+  $("days").querySelector('[aria-pressed="true"]')?.scrollIntoView({ inline: "center", block: "nearest" });
+}
+
+function showingsFor(iso) {
+  const rows = [];
+  for (const w of state.data.weeks) {
+    for (const f of w.films) {
+      for (const s of f.showings) if (s.date === iso) rows.push({ film: f, s });
+    }
+  }
+  return rows.sort((a, b) => a.s.start.localeCompare(b.s.start));
+}
+
+function notesHtml(film) {
+  if (!film.notes.length) return "";
+  return `<details><summary>注意事項・料金など</summary><ul>${film.notes.map((n) => `<li>${esc(n)}</li>`).join("")}</ul></details>`;
+}
+
+function tags(film, iso) {
+  let t = "";
+  if (film.ends_on === iso) t += `<span class="tag">最終日</span>`;
+  if (film.label) t += `<span class="tag">${esc(film.label)}</span>`;
+  return t;
+}
+
+function render() {
+  const iso = state.selected;
+  $("heading").textContent = label(iso);
+  const rows = showingsFor(iso);
+  if (!rows.length) {
+    $("list").innerHTML = `<p class="empty">この日の上映情報はありません。</p>`;
+    return;
+  }
+  const isToday = iso === todayJST();
+  const now = nowMinutesJST();
+  const isPast = (s) => (iso < todayJST()) || (isToday && toMin(s.start) < now);
+
+  if (state.view === "time") {
+    const nextIndex = isToday ? rows.findIndex((r) => toMin(r.s.start) >= now) : -1;
+    $("list").innerHTML = `<ol class="timeline">${rows.map((r, i) => {
+      const cls = isPast(r.s) ? "past" : i === nextIndex ? "next" : "";
+      const end = r.s.end ? `${r.s.end} 終映` : "";
+      const endNote = r.s.end_note ? `（${esc(r.s.end_note)}）` : "";
+      return `<li class="show ${cls}">
+        <time class="start" datetime="${iso}T${r.s.start}">${r.s.start.replace(/^0/, "")}</time>
+        <div>
+          <div class="title">${i === nextIndex ? '<span class="tag">次の回</span>' : ""}${tags(r.film, iso)}${esc(r.film.title)}</div>
+          ${r.s.work ? `<div class="work">${esc(r.s.work)}</div>` : ""}
+          <div class="sub">${end}${endNote}</div>
+          ${notesHtml(r.film)}
+        </div>
+      </li>`;
+    }).join("")}</ol>`;
+  } else {
+    const byFilm = new Map();
+    for (const r of rows) {
+      if (!byFilm.has(r.film)) byFilm.set(r.film, []);
+      byFilm.get(r.film).push(r.s);
+    }
+    $("list").innerHTML = [...byFilm].map(([film, list]) => `
+      <section class="film">
+        <h2>${tags(film, iso)}${esc(film.title)}</h2>
+        <div class="times">${list.map((s) => `<span class="${isPast(s) ? "past" : ""}">${s.start.replace(/^0/, "")}${s.end ? `<small>〜${s.end}</small>` : ""}${s.work ? `<small>${esc(s.work)}</small>` : ""}</span>`).join("")}</div>
+        ${notesHtml(film)}
+      </section>`).join("");
+  }
+}
+
+$("days").addEventListener("click", (e) => {
+  const btn = e.target.closest("button[data-date]");
+  if (!btn) return;
+  state.selected = btn.dataset.date;
+  $("days").querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", b === btn));
+  render();
+});
+document.querySelector(".views").addEventListener("click", (e) => {
+  const btn = e.target.closest("button[data-view]");
+  if (!btn) return;
+  state.view = btn.dataset.view;
+  document.querySelectorAll(".views button").forEach((b) => b.setAttribute("aria-pressed", b === btn));
+  render();
+});
+
+load();
+</script>
+</body>
+</html>
