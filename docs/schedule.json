@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T08:08+09:00",
+  "generated_at": "2026-09-24T08:29+09:00",
   "official_url": "https://www.theaterkino.net/tt.html",
   "weeks": [
     {
@@ -161,10 +161,10 @@
         {
           "title": "オペレーション：カブール 極限救出48時間",
           "label": null,
-          "ends_on": null,
+          "ends_on": "2026-10-02",
           "notes": [
             "※9/26(土)〜上映時間変更予定",
-            "※10/2(金)まで予定"
+            "※10/2(金)終了"
           ],
           "showings": [
             {
@@ -225,7 +225,8 @@
           "notes": [
             "●9:25の回割引￥1400",
             "●日曜日は18:00以降の回￥1300",
-            "※9/26(土)〜上映時間変更予定"
+            "※9/26(土)〜上映時間変更予定",
+            "※10/2(金)までは上映予定"
           ],
           "showings": [
             {
@@ -359,9 +360,10 @@
         {
           "title": "急に具合が悪くなる",
           "label": null,
-          "ends_on": null,
+          "ends_on": "2026-10-02",
           "notes": [
-            "※9/25(金)までは予定",
+            "※9/26(土)〜上映時間変更予定",
+            "※10/2(金)終了",
             "＜UDCAST対応＞"
           ],
           "showings": [
@@ -731,6 +733,664 @@
               "start": "18:15",
               "end": "20:10",
               "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "ttA.html",
+      "start": "2026-09-26",
+      "end": "2026-10-02",
+      "films": [
+        {
+          "title": "ナギダイアリー",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "★9/27(日)・28(月)13:40の回、日本語字幕付きバリアフリー上映",
+            "●9:20の回割引￥1400",
+            "●日曜日は18:00以降の回￥1300",
+            "※10/3(土)～上映時間変更予定",
+            "＜UDCAST対応＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-09-26",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-26",
+              "start": "13:40",
+              "end": "15:39",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-26",
+              "start": "19:10",
+              "end": "21:07",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "13:40",
+              "end": "15:39",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "19:10",
+              "end": "21:07",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "13:40",
+              "end": "15:39",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "19:10",
+              "end": "21:07",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "13:40",
+              "end": "15:39",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "19:10",
+              "end": "21:07",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "13:40",
+              "end": "15:39",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "19:10",
+              "end": "21:07",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "13:40",
+              "end": "15:39",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "19:10",
+              "end": "21:07",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "09:20",
+              "end": "11:15",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "13:00",
+              "end": "14:59",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "17:50",
+              "end": "19:45",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "モネと時間旅行",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "●9:20の回割引￥1400",
+            "※10/3(土)～上映時間変更予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-09-26",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-26",
+              "start": "13:10",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "13:10",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "13:10",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "13:10",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "13:10",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "13:10",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "09:20",
+              "end": "11:30",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "13:30",
+              "end": "15:44",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ヒンド・ラジャブの声",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "※10/2(金)までは上映予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-09-26",
+              "start": "11:25",
+              "end": "13:04",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "11:25",
+              "end": "13:04",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "11:25",
+              "end": "13:04",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "11:25",
+              "end": "13:04",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "11:25",
+              "end": "13:04",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "11:25",
+              "end": "13:04",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "11:20",
+              "end": "12:54",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "the moment ザ・モーメント",
+          "label": null,
+          "ends_on": "2026-10-09",
+          "notes": [
+            "●20:10の回割引￥1400",
+            "※10/3(土)～上映時間変更予定",
+            "※10/9(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-09-26",
+              "start": "17:30",
+              "end": "19:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "17:30",
+              "end": "19:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "17:30",
+              "end": "19:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "17:30",
+              "end": "19:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "19:20",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "19:20",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "20:10",
+              "end": "21:55",
+              "end_note": "予告なし",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "顔-かお-",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "※10/2(金)までは予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-09-26",
+              "start": "15:30",
+              "end": "17:21",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "15:30",
+              "end": "17:21",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "15:30",
+              "end": "17:21",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "15:30",
+              "end": "17:21",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "11:40",
+              "end": "13:31",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "11:40",
+              "end": "13:31",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "11:35",
+              "end": "13:24",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "急に具合が悪くなる",
+          "label": null,
+          "ends_on": "2026-10-02",
+          "notes": [
+            "※10/2(金)終了",
+            "＜UDCAST対応＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-09-26",
+              "start": "15:45",
+              "end": "19:05",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "15:45",
+              "end": "19:05",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "15:45",
+              "end": "19:05",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "15:45",
+              "end": "19:05",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "15:45",
+              "end": "19:05",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "15:45",
+              "end": "19:05",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "15:05",
+              "end": "18:25",
+              "end_note": "予告1分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "左利きの少女",
+          "label": null,
+          "ends_on": "2026-10-02",
+          "notes": [
+            "※10/2(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-09-26",
+              "start": "11:40",
+              "end": "13:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "11:40",
+              "end": "13:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "11:40",
+              "end": "13:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "11:40",
+              "end": "13:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "15:30",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "15:30",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "15:50",
+              "end": "17:45",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "オペレーション：カブール 極限救出48時間",
+          "label": null,
+          "ends_on": "2026-10-02",
+          "notes": [
+            "●日曜日は18:00以降の回￥1300",
+            "※10/2(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-09-26",
+              "start": "19:25",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-27",
+              "start": "19:25",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-28",
+              "start": "19:25",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-29",
+              "start": "19:25",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-09-30",
+              "start": "17:30",
+              "end": "19:15",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-01",
+              "start": "17:30",
+              "end": "19:15",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-02",
+              "start": "19:50",
+              "end": "21:35",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ザ・ゴールドディガーズ",
+          "label": "KINOフライデー・シネマ vol.280",
+          "ends_on": "2026-10-02",
+          "notes": [
+            "★先着オリジナルポストカードプレゼント！",
+            "★＜KINOフライデー・シネマ＞",
+            ">>詳細",
+            "●当日料金1800円、学生1400円、シニア1300円、高校生以下1000円",
+            "※特別上映作品のため、招待券はご利用いただけません。",
+            "※当日【13:10】～受付。入場整理番号をお渡しします。",
+            "※10/2(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-02",
+              "start": "18:30",
+              "end": "20:05",
+              "end_note": null,
               "work": null
             }
           ]
