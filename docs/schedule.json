@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T09:36+09:00",
+  "generated_at": "2026-10-15T08:46+09:00",
   "official_url": "https://www.theaterkino.net/tt.html",
   "weeks": [
     {
@@ -74,6 +74,7 @@
           "notes": [
             "●9:20の回割引￥1400",
             "※10/17(土)～上映時間変更予定",
+            "※10/23(金)までは上映予定",
             "＜UDCAST対応＞"
           ],
           "showings": [
@@ -173,9 +174,10 @@
         {
           "title": "私たちは、ちょうどいい。",
           "label": null,
-          "ends_on": null,
+          "ends_on": "2026-10-23",
           "notes": [
-            "※10/16(金)まで予定"
+            "※10/17(土)～上映時間変更予定",
+            "※10/23(金)終了"
           ],
           "showings": [
             {
@@ -232,9 +234,9 @@
         {
           "title": "モネと時間旅行",
           "label": null,
-          "ends_on": null,
+          "ends_on": "2026-10-16",
           "notes": [
-            "※10/16(金)まで予定"
+            "※10/16(金)終了"
           ],
           "showings": [
             {
@@ -353,7 +355,6 @@
           "ends_on": "2026-10-16",
           "notes": [
             "★初日10/10(土)アナザーオリジナルチラシプレゼント！(先着限定)",
-            ">>詳細",
             "※10/16(金)終了",
             "＜PG12＞"
           ],
@@ -868,6 +869,750 @@
               "date": "2026-10-16",
               "start": "18:35",
               "end": "19:50",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "ttB.html",
+      "start": "2026-10-17",
+      "end": "2026-10-23",
+      "films": [
+        {
+          "title": "プーチンの愛国教室",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "●日曜日は18:00以降の回￥1300",
+            "※10/24(土)～上映時間変更予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "13:30",
+              "end": "15:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-17",
+              "start": "19:30",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "13:30",
+              "end": "15:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "19:30",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-19",
+              "start": "13:30",
+              "end": "15:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-19",
+              "start": "19:30",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "13:30",
+              "end": "15:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "19:30",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-21",
+              "start": "13:30",
+              "end": "15:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-21",
+              "start": "19:30",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-22",
+              "start": "13:30",
+              "end": "15:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-22",
+              "start": "19:30",
+              "end": "21:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-23",
+              "start": "13:30",
+              "end": "15:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-23",
+              "start": "17:30",
+              "end": "19:10",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ポンペイ、雲の下に生きる",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "※10/24(土)～上映時間変更予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "11:10",
+              "end": "13:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "11:10",
+              "end": "13:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-19",
+              "start": "11:10",
+              "end": "13:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "11:10",
+              "end": "13:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-21",
+              "start": "11:10",
+              "end": "13:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-22",
+              "start": "11:10",
+              "end": "13:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-23",
+              "start": "11:10",
+              "end": "13:14",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "眺めのいい部屋",
+          "label": null,
+          "ends_on": "2026-10-30",
+          "notes": [
+            "★初日10/17(土)アーマッドティーデカフェ3フレーバーセットプレゼント！",
+            "(先着限定/有料で映画をご覧の方に限ります)",
+            "※10/24(土)～上映時間変更予定",
+            "※10/30(金)終了",
+            "＜R15+＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "13:20",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "13:20",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-19",
+              "start": "13:20",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "13:20",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-21",
+              "start": "13:20",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-22",
+              "start": "13:20",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-23",
+              "start": "13:20",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "リサ・ラーソンがいた時間",
+          "label": null,
+          "ends_on": "2026-10-30",
+          "notes": [
+            "※10/24(土)～上映時間変更予定",
+            "※10/30(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "11:40",
+              "end": "13:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "11:40",
+              "end": "13:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-19",
+              "start": "11:40",
+              "end": "13:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "11:40",
+              "end": "13:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-21",
+              "start": "11:40",
+              "end": "13:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-22",
+              "start": "11:40",
+              "end": "13:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-23",
+              "start": "11:40",
+              "end": "13:24",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ナギダイアリー",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "※10/23(金)までは上映予定",
+            "＜UDCAST対応＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "15:15",
+              "end": "17:09",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "15:15",
+              "end": "17:09",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-10-19",
+              "start": "15:15",
+              "end": "17:09",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "15:15",
+              "end": "17:09",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-10-21",
+              "start": "15:15",
+              "end": "17:09",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-10-22",
+              "start": "15:15",
+              "end": "17:09",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-10-23",
+              "start": "15:15",
+              "end": "17:09",
+              "end_note": "予告1分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "戦場0地点",
+          "label": null,
+          "ends_on": "2026-10-23",
+          "notes": [
+            "※10/23(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "15:30",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "15:30",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-19",
+              "start": "15:30",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "15:30",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-21",
+              "start": "15:30",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-22",
+              "start": "15:30",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-23",
+              "start": "15:30",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "私たちは、ちょうどいい。",
+          "label": null,
+          "ends_on": "2026-10-23",
+          "notes": [
+            "※10/23(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "09:20",
+              "end": "11:04",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "09:20",
+              "end": "11:04",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "09:20",
+              "end": "11:04",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-10-21",
+              "start": "09:20",
+              "end": "11:04",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-10-22",
+              "start": "09:20",
+              "end": "11:04",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-10-23",
+              "start": "09:20",
+              "end": "11:04",
+              "end_note": "予告なし",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "遥かな町へ",
+          "label": null,
+          "ends_on": "2026-10-23",
+          "notes": [
+            "※10/23(金)終了",
+            "＜PG12＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-19",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-21",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-22",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-23",
+              "start": "09:20",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ブロークン・ヴォイス",
+          "label": null,
+          "ends_on": "2026-10-22",
+          "notes": [
+            "★初日10/17(土)オリジナルポストカードプレゼント！",
+            "(先着限定/有料で映画をご覧の方に限ります)",
+            "※10/22(木)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "17:30",
+              "end": "19:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "17:30",
+              "end": "19:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-19",
+              "start": "17:30",
+              "end": "19:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "17:30",
+              "end": "19:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-21",
+              "start": "17:30",
+              "end": "19:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-22",
+              "start": "17:30",
+              "end": "19:25",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "エルミタージュ幻想",
+          "label": null,
+          "ends_on": "2026-10-20",
+          "notes": [
+            "※10/20(火)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "17:15",
+              "end": "19:00",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-18",
+              "start": "17:15",
+              "end": "19:00",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-19",
+              "start": "09:20",
+              "end": "11:04",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-10-20",
+              "start": "17:15",
+              "end": "19:00",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ミケランジェロ・アントニオーニ レトロスペクティブ",
+          "label": null,
+          "ends_on": "2026-10-23",
+          "notes": [
+            "●日曜日は18:00以降の回￥1300",
+            "※特別上映のため、招待券はご利用いただけません。",
+            "※10/23(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-17",
+              "start": "19:05",
+              "end": "21:08",
+              "end_note": null,
+              "work": "赤い砂漠"
+            },
+            {
+              "date": "2026-10-18",
+              "start": "19:05",
+              "end": "20:55",
+              "end_note": null,
+              "work": "女ともだち"
+            },
+            {
+              "date": "2026-10-19",
+              "start": "18:55",
+              "end": "21:25",
+              "end_note": null,
+              "work": "情事"
+            },
+            {
+              "date": "2026-10-20",
+              "start": "19:05",
+              "end": "21:05",
+              "end_note": null,
+              "work": "敗北者たち"
+            },
+            {
+              "date": "2026-10-21",
+              "start": "17:15",
+              "end": "19:15",
+              "end_note": "予告なし",
+              "work": "赤い砂漠"
+            },
+            {
+              "date": "2026-10-21",
+              "start": "19:20",
+              "end": "21:08",
+              "end_note": null,
+              "work": "愛と殺意"
+            },
+            {
+              "date": "2026-10-22",
+              "start": "17:15",
+              "end": "19:05",
+              "end_note": null,
+              "work": "女ともだち"
+            },
+            {
+              "date": "2026-10-22",
+              "start": "19:10",
+              "end": "21:10",
+              "end_note": null,
+              "work": "敗北者たち"
+            },
+            {
+              "date": "2026-10-23",
+              "start": "17:15",
+              "end": "19:45",
+              "end_note": null,
+              "work": "情事"
+            },
+            {
+              "date": "2026-10-23",
+              "start": "19:50",
+              "end": "21:35",
+              "end_note": "予告なし",
+              "work": "愛と殺意"
+            }
+          ]
+        },
+        {
+          "title": "人生フルーツ』特別上映",
+          "label": "10/19(月)月に1回の",
+          "ends_on": null,
+          "notes": [
+            "※特別上映のため、招待券はご利用いただけません。",
+            "※当日【13:40】～受付。入場整理番号をお渡しします。",
+            "★月に1回 今月の『人生フルーツ』大好評上映中！"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-19",
+              "start": "17:15",
+              "end": "18:50",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "まさゆめ",
+          "label": "KINOフライデー・シネマ vol.284",
+          "ends_on": "2026-10-23",
+          "notes": [
+            "★＜KINOフライデー・シネマ＞",
+            ">>詳細",
+            "●当日料金1800円、学生1400円、シニア1300円、高校生以下1000円",
+            "※特別上映作品のため、招待券はご利用いただけません。",
+            "※当日【15:40】～受付。入場整理番号をお渡しします。",
+            "※10/23(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-23",
+              "start": "19:15",
+              "end": "21:10",
               "end_note": null,
               "work": null
             }
