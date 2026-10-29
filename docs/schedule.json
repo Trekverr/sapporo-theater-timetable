@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:46+09:00",
+  "generated_at": "2026-10-29T09:40+09:00",
   "official_url": "https://www.theaterkino.net/tt.html",
   "weeks": [
     {
@@ -13,7 +13,8 @@
           "ends_on": null,
           "notes": [
             "※10/25(日)は予告2分",
-            "※10/30(金)までは上映予定"
+            "※10/31(土)～上映時間変更予定",
+            "※11/6(金)までは上映予定"
           ],
           "showings": [
             {
@@ -70,10 +71,10 @@
         {
           "title": "真実と反逆 ナチスと闘った若きレジスタンス",
           "label": null,
-          "ends_on": "2026-11-06",
+          "ends_on": null,
           "notes": [
-            "※10/31(土)～上映時間変更予定",
-            "※11/6(金)終了"
+            "※10/31(日)～上映時間変更予定",
+            "※11/6(金)までは上映予定"
           ],
           "showings": [
             {
@@ -189,10 +190,11 @@
         {
           "title": "ポンペイ、雲の下に生きる",
           "label": null,
-          "ends_on": null,
+          "ends_on": "2026-11-06",
           "notes": [
-            "●20:00の回割引￥1400",
-            "※10/30(金)までは上映予定"
+            "●日曜日は18:00以降の回￥1300",
+            "※10/31(土)～上映時間変更予定",
+            "※11/6(金)終了"
           ],
           "showings": [
             {
@@ -438,6 +440,7 @@
           "ends_on": "2026-10-30",
           "notes": [
             "※10/30(金)終了",
+            "★11/7(土)⇒13(金)アンコール上映決定！",
             "＜R15+＞"
           ],
           "showings": [
@@ -747,6 +750,731 @@
               "start": "18:20",
               "end": "20:15",
               "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "ttB.html",
+      "start": "2026-10-31",
+      "end": "2026-11-06",
+      "films": [
+        {
+          "title": "見上げてごらん",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "●9:20/9:40の回割引￥1400",
+            "※11/2(月)・4(水)は9:20の回予告2分",
+            "※11/7(土)～上映時間変更予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-31",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-31",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-10-31",
+              "start": "19:15",
+              "end": "21:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "19:15",
+              "end": "21:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "19:15",
+              "end": "21:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "19:15",
+              "end": "21:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "19:15",
+              "end": "21:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "09:20",
+              "end": "11:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "19:15",
+              "end": "21:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "09:40",
+              "end": "11:39",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "19:15",
+              "end": "21:10",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "セックス・ピストルズ 破壊の設計図",
+          "label": null,
+          "ends_on": "2026-11-13",
+          "notes": [
+            "★初日10/31(土)オリジナルポストカードプレゼント！",
+            ">>詳細",
+            "(先着限定/有料で映画をご覧の方に限ります)",
+            "※11/7(土)～上映時間変更予定",
+            "※11/13(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-31",
+              "start": "15:20",
+              "end": "17:05",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "15:20",
+              "end": "17:05",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "15:20",
+              "end": "17:05",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "15:20",
+              "end": "17:05",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "15:20",
+              "end": "17:05",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "15:20",
+              "end": "17:05",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "15:20",
+              "end": "17:05",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "NAZA ナザ",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "★10/31(土)上映後、ロンドンプレミア上映後Q＆A映像を特別上映！",
+            "(この回、招待券不可)",
+            "※11/6(金)までは上映予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-31",
+              "start": "13:45",
+              "end": "15:44",
+              "end_note": "上映＆インタビュー映像/終了15:44★",
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "13:55",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "13:55",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "13:55",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "13:55",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "13:55",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "13:55",
+              "end": "15:24",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "プーチンの愛国教室",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "※11/6(金)までは上映予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-31",
+              "start": "11:35",
+              "end": "13:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "11:35",
+              "end": "13:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "11:35",
+              "end": "13:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "11:35",
+              "end": "13:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "11:35",
+              "end": "13:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "11:35",
+              "end": "13:10",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "11:35",
+              "end": "13:10",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ポンペイ、雲の下に生きる",
+          "label": null,
+          "ends_on": "2026-11-06",
+          "notes": [
+            "●20:10の回割引￥1400",
+            "※11/6(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-31",
+              "start": "20:10",
+              "end": "22:12",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "19:50",
+              "end": "21:52",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "19:50",
+              "end": "21:52",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "19:50",
+              "end": "21:52",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "19:50",
+              "end": "21:52",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "19:50",
+              "end": "21:52",
+              "end_note": "予告1分",
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "11:45",
+              "end": "13:48",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "真実と反逆 ナチスと闘った若きレジスタンス",
+          "label": null,
+          "ends_on": "2026-11-06",
+          "notes": [
+            "※11/6(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-31",
+              "start": "09:20",
+              "end": "11:29",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "09:20",
+              "end": "11:29",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "09:20",
+              "end": "11:29",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "09:20",
+              "end": "11:29",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "09:20",
+              "end": "11:29",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "09:20",
+              "end": "11:29",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "09:20",
+              "end": "11:29",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "undo+PiCNiC",
+          "label": null,
+          "ends_on": "2026-11-06",
+          "notes": [
+            "※11/6(金)終了",
+            "＜『PiCNiC』PG12＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-31",
+              "start": "18:00",
+              "end": "20:05",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "17:40",
+              "end": "19:45",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "17:40",
+              "end": "19:45",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "17:40",
+              "end": "19:45",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "17:40",
+              "end": "19:45",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "17:40",
+              "end": "19:45",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "19:20",
+              "end": "21:25",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "審判",
+          "label": null,
+          "ends_on": "2026-11-06",
+          "notes": [
+            "★初日10/31(土)オリジナルポストカードプレゼント！",
+            "※11/6(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-31",
+              "start": "15:50",
+              "end": "17:54",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "15:30",
+              "end": "17:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "15:30",
+              "end": "17:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "15:30",
+              "end": "17:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "15:30",
+              "end": "17:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "15:30",
+              "end": "17:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "15:30",
+              "end": "17:34",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "グルスポングの奇跡",
+          "label": null,
+          "ends_on": "2026-11-06",
+          "notes": [
+            "★初日10/31(土)オリジナルポストカードプレゼント！",
+            "※11/6(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-31",
+              "start": "17:10",
+              "end": "19:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-01",
+              "start": "17:10",
+              "end": "19:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-02",
+              "start": "17:10",
+              "end": "19:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-03",
+              "start": "17:10",
+              "end": "19:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-04",
+              "start": "17:10",
+              "end": "19:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-05",
+              "start": "17:10",
+              "end": "19:10",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-06",
+              "start": "17:10",
+              "end": "19:10",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "第19回ショパン国際ピアノコンクール映像選",
+          "label": null,
+          "ends_on": "2026-11-05",
+          "notes": [
+            "●当日料金2000円、学生1500円、KINO会員2000円",
+            "※招待・各種割引不可",
+            "※10/31(土)予告2分",
+            "※11/5(木)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-10-31",
+              "start": "11:25",
+              "end": "13:45",
+              "end_note": "予告2分",
+              "work": "Cプログラム"
+            },
+            {
+              "date": "2026-11-01",
+              "start": "11:25",
+              "end": "13:45",
+              "end_note": null,
+              "work": "Aプログラム"
+            },
+            {
+              "date": "2026-11-02",
+              "start": "11:20",
+              "end": "13:49",
+              "end_note": "予告なし",
+              "work": "Bプログラム"
+            },
+            {
+              "date": "2026-11-03",
+              "start": "11:25",
+              "end": "13:45",
+              "end_note": "予告2分",
+              "work": "Cプログラム"
+            },
+            {
+              "date": "2026-11-04",
+              "start": "11:20",
+              "end": "13:49",
+              "end_note": "予告なし",
+              "work": "Bプログラム"
+            },
+            {
+              "date": "2026-11-05",
+              "start": "11:25",
+              "end": "13:45",
+              "end_note": null,
+              "work": "Aプログラム"
+            }
+          ]
+        },
+        {
+          "title": "零下五十度の抑留者",
+          "label": "KINOフライデー・シネマ vol.285",
+          "ends_on": "2026-11-06",
+          "notes": [
+            "★＜KINOフライデー・シネマ＞",
+            ">>詳細",
+            "●当日料金1800円、学生1400円、シニア1300円、高校生以下1000円",
+            "※特別上映作品のため、招待券はご利用いただけません。",
+            "※当日【14:05】～受付。入場整理番号をお渡しします。",
+            "※11/6(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-06",
+              "start": "17:40",
+              "end": "19:14",
+              "end_note": null,
               "work": null
             }
           ]
