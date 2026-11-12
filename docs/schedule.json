@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:45+09:00",
+  "generated_at": "2026-11-12T11:10+09:00",
   "official_url": "https://www.theaterkino.net/tt.html",
   "weeks": [
     {
@@ -10,13 +10,14 @@
         {
           "title": "百姓、わらう。",
           "label": null,
-          "ends_on": null,
+          "ends_on": "2026-11-20",
           "notes": [
             "★11/7(土)・8(日)上映後、柴田昌平監督ほか出演者ゲストトーク！",
             ">>詳細",
             "(トーク回は招待券不可)",
             "※11/7(土)受付11:10〜、11/8(日)受付9:05〜",
-            "※11/14(土)～上映時間変更予定"
+            "※11/14(土)～上映時間変更予定",
+            "※11/20(金)終了"
           ],
           "showings": [
             {
@@ -75,7 +76,8 @@
           "label": null,
           "ends_on": null,
           "notes": [
-            "※11/14(土)～上映時間変更予定"
+            "※11/14(土)～上映時間変更予定",
+            "※11/20(金)まで予定"
           ],
           "showings": [
             {
@@ -305,7 +307,7 @@
           "notes": [
             "★11/13(金)は上映後、ロンドンプレミア上映時のQ＆A映像特別上映",
             "(この回、日本語字幕・英語字幕で本編を上映/招待券不可)",
-            "※11/13(金)までは上映予定"
+            "※11/19(木)までは上映予定"
           ],
           "showings": [
             {
@@ -362,9 +364,9 @@
         {
           "title": "プーチンの愛国教室",
           "label": null,
-          "ends_on": null,
+          "ends_on": "2026-11-13",
           "notes": [
-            "※11/13(金)まで予定"
+            "※11/13(金)終了"
           ],
           "showings": [
             {
@@ -480,9 +482,10 @@
         {
           "title": "カウント・ベイシー",
           "label": null,
-          "ends_on": "2026-11-13",
+          "ends_on": null,
           "notes": [
-            "※11/13(金)終了"
+            "※11/14(土)～上映時間変更予定",
+            "※11/19(木)まで延長！"
           ],
           "showings": [
             {
@@ -730,6 +733,766 @@
               "start": "13:05",
               "end": "15:25",
               "end_note": "上映＆トーク終了15:25/予告なし★",
+              "work": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "ttB.html",
+      "start": "2026-11-14",
+      "end": "2026-11-20",
+      "films": [
+        {
+          "title": "もしもの愛",
+          "label": null,
+          "ends_on": "2026-11-27",
+          "notes": [
+            "※特別上映のため、招待券はご利用いただけません。あらかじめご了承ください。",
+            "※11/21(土)～上映時間変更予定",
+            "※11/27(金)終了",
+            "＜R15+＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "09:20",
+              "end": "12:09",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "09:20",
+              "end": "12:09",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "09:20",
+              "end": "12:09",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "09:20",
+              "end": "12:09",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "09:20",
+              "end": "12:09",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "09:20",
+              "end": "12:09",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "09:20",
+              "end": "12:09",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "平行と垂直",
+          "label": null,
+          "ends_on": "2026-11-27",
+          "notes": [
+            "★11/15(日)・16(月)は日本語字幕版バリアフリー上映",
+            "※11/21(土)～上映時間変更予定",
+            "※11/27(金)終了",
+            "＜HELLO! MOVIE対応＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "12:15",
+              "end": "14:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "12:15",
+              "end": "14:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "12:15",
+              "end": "14:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "12:15",
+              "end": "14:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "12:15",
+              "end": "14:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "12:15",
+              "end": "14:19",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "12:15",
+              "end": "14:19",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "CBGB ニューヨーク、PUNKが生まれた場所",
+          "label": null,
+          "ends_on": "2026-11-27",
+          "notes": [
+            "★初日11/14(土)オリジナルポストカードをプレゼント！",
+            ">>詳細",
+            "(先着限定/有料で映画をご覧の方に限ります)",
+            "●20:10の回割引￥1400",
+            "●日曜日は18:00以降の回￥1300",
+            "※11/21(土)～上映時間変更予定",
+            "※11/27(金)終了",
+            "＜PG12＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "17:55",
+              "end": "19:40",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "19:35",
+              "end": "21:23",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "17:55",
+              "end": "19:40",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "17:55",
+              "end": "19:40",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "17:55",
+              "end": "19:40",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "17:55",
+              "end": "19:40",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "20:10",
+              "end": "21:55",
+              "end_note": "予告なし",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "京都ALS嘱託殺人事件",
+          "label": null,
+          "ends_on": "2026-11-27",
+          "notes": [
+            "※11/21(土)～上映時間変更予定",
+            "※11/27(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "11:05",
+              "end": "12:49",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "11:05",
+              "end": "12:49",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "11:05",
+              "end": "12:49",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "11:05",
+              "end": "12:49",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "11:05",
+              "end": "12:49",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "11:05",
+              "end": "12:49",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "11:20",
+              "end": "13:04",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ワンオペレーション",
+          "label": null,
+          "ends_on": "2026-11-27",
+          "notes": [
+            "●20:00の回割引￥1400",
+            "●日曜日は18:00以降の回￥1300",
+            "※11/21(土)～上映時間変更予定",
+            "※11/27(金)終了",
+            "＜PG12＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "19:45",
+              "end": "21:41",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "19:25",
+              "end": "21:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "19:45",
+              "end": "21:41",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "19:45",
+              "end": "21:41",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "19:45",
+              "end": "21:41",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "19:45",
+              "end": "21:41",
+              "end_note": "予告なし",
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "20:00",
+              "end": "21:57",
+              "end_note": "予告1分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "見上げてごらん",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "※11/21(土)～上映時間変更予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "14:25",
+              "end": "16:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "14:25",
+              "end": "16:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "14:25",
+              "end": "16:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "14:25",
+              "end": "16:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "14:25",
+              "end": "16:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "14:25",
+              "end": "16:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "15:35",
+              "end": "17:30",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "NAZA ナザ",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "※11/19(木)までは上映予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "15:25",
+              "end": "16:50",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "15:25",
+              "end": "16:50",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "15:25",
+              "end": "16:50",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "15:25",
+              "end": "16:50",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "15:25",
+              "end": "16:50",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "15:25",
+              "end": "16:50",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "恒星の向こう側",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "※11/20(金)まで予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "09:20",
+              "end": "10:59",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "09:20",
+              "end": "10:59",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "09:20",
+              "end": "10:59",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "09:20",
+              "end": "10:59",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "09:20",
+              "end": "10:59",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "09:20",
+              "end": "10:59",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "16:30",
+              "end": "18:05",
+              "end_note": "予告なし",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "百姓、わらう。",
+          "label": null,
+          "ends_on": "2026-11-20",
+          "notes": [
+            "※11/20(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "12:55",
+              "end": "15:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "12:55",
+              "end": "15:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "12:55",
+              "end": "15:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "12:55",
+              "end": "15:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "12:55",
+              "end": "15:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "12:55",
+              "end": "15:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "13:10",
+              "end": "15:31",
+              "end_note": "予告なし",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "カウント・ベイシー ＜～11/19(木)まで延長！＞",
+          "label": null,
+          "ends_on": "2026-11-19",
+          "notes": [
+            "※11/19(木)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "16:30",
+              "end": "17:50",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "16:30",
+              "end": "17:50",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "16:30",
+              "end": "17:50",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "16:30",
+              "end": "17:50",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "16:30",
+              "end": "17:50",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "16:30",
+              "end": "17:50",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "さとこはいつも",
+          "label": null,
+          "ends_on": "2026-11-20",
+          "notes": [
+            "※11/20(金)終了",
+            "＜UDCAST対応＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "16:55",
+              "end": "19:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-15",
+              "start": "16:55",
+              "end": "19:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-16",
+              "start": "16:55",
+              "end": "19:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-17",
+              "start": "16:55",
+              "end": "19:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-18",
+              "start": "16:55",
+              "end": "19:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-19",
+              "start": "16:55",
+              "end": "19:20",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "17:35",
+              "end": "19:57",
+              "end_note": "予告なし",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ジム・ジャームッシュ レトロスペクティブ2026",
+          "label": "11/14(土)・16(月)～19(木)",
+          "ends_on": "2026-11-19",
+          "notes": [
+            "●通常料金",
+            "※特別上映のため、招待券はご利用いただけません。あらかじめご了承ください。",
+            "※11/19(木)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-14",
+              "start": "19:25",
+              "end": "21:00",
+              "end_note": null,
+              "work": "ストレンジャー・ザン・パラダイス"
+            },
+            {
+              "date": "2026-11-16",
+              "start": "19:25",
+              "end": "21:18",
+              "end_note": null,
+              "work": "ダウン・バイ・ロー"
+            },
+            {
+              "date": "2026-11-17",
+              "start": "19:25",
+              "end": "21:21",
+              "end_note": null,
+              "work": "ミステリー・トレイン"
+            },
+            {
+              "date": "2026-11-18",
+              "start": "19:25",
+              "end": "21:36",
+              "end_note": "予告なし",
+              "work": "ナイト・オン・ザ・プラネット"
+            },
+            {
+              "date": "2026-11-19",
+              "start": "19:25",
+              "end": "21:29",
+              "end_note": null,
+              "work": "パターソン"
+            }
+          ]
+        },
+        {
+          "title": "アット・ザ・ベンチ』2周年特別上映",
+          "label": "11/15(日)",
+          "ends_on": "2026-11-15",
+          "notes": [
+            "●通常料金",
+            "※特別上映のため、招待券はご利用いただけません。あらかじめご了承ください。",
+            "※受付14:35～",
+            "※11/15(日)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-15",
+              "start": "17:55",
+              "end": "19:30",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ファーザー マザー シスター ブラザー",
+          "label": "11/20(金)公開",
+          "ends_on": null,
+          "notes": [
+            "●9:20の回割引￥1400",
+            "※11/21(金)～上映時間変更予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-20",
+              "start": "09:20",
+              "end": "11:15",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "14:25",
+              "end": "16:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-20",
+              "start": "18:10",
+              "end": "20:05",
+              "end_note": "予告2分",
               "work": null
             }
           ]
