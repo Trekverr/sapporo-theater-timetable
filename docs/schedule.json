@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T11:01+09:00",
+  "generated_at": "2026-11-26T12:25+09:00",
   "official_url": "https://www.theaterkino.net/tt.html",
   "weeks": [
     {
@@ -161,10 +161,11 @@
         {
           "title": "マルセル＆ムッシュ・パニョル",
           "label": null,
-          "ends_on": null,
+          "ends_on": "2026-12-04",
           "notes": [
             "●20:10の回割引￥1400",
-            "※11/28(土)～上映時間変更予定"
+            "※11/28(土)～上映時間変更予定",
+            "※12/4(金)終了"
           ],
           "showings": [
             {
@@ -263,10 +264,10 @@
         {
           "title": "見上げてごらん",
           "label": null,
-          "ends_on": null,
+          "ends_on": "2026-11-27",
           "notes": [
             "●日曜日は18:00以降の回￥1300",
-            "※11/27(金)までは上映予定"
+            "※11/27(金)終了"
           ],
           "showings": [
             {
@@ -443,9 +444,10 @@
         {
           "title": "平行と垂直",
           "label": null,
-          "ends_on": "2026-11-27",
+          "ends_on": "2026-11-29",
           "notes": [
-            "※11/27(金)終了",
+            "※11/28(土)～上映時間変更予定",
+            "※11/29(日)終了",
             "＜HELLO!MOVIE対応＞"
           ],
           "showings": [
@@ -629,7 +631,9 @@
             "★11/21(土)は本編上映後、ロンドンプレミアQ＆A特別映像上映！",
             "(この回招待券不可)",
             "★全ての回、日本語・英語字幕版上映",
-            "※11/26(木)終了"
+            "※11/26(木)終了",
+            "※11/30(月)～12/3(木)追加上映決定！",
+            ">>詳細"
           ],
           "showings": [
             {
@@ -697,7 +701,6 @@
           "ends_on": null,
           "notes": [
             "★上映後、井上淳一監督トーク！",
-            ">>詳細",
             "●通常料金",
             "※特別上映のため、招待券はご利用いただけません。",
             "※当日【11:20】～受付。入場整理番号をお渡しします。",
@@ -834,6 +837,767 @@
               "start": "18:10",
               "end": "19:35",
               "end_note": "予告なし",
+              "work": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "ttB.html",
+      "start": "2026-11-28",
+      "end": "2026-12-04",
+      "films": [
+        {
+          "title": "ファーザー マザー シスター ブラザー",
+          "label": null,
+          "ends_on": null,
+          "notes": [
+            "●9:35/9:15の回割引￥1400",
+            "●日曜日は18:00以降の回￥1300",
+            "※12/5(土)～上映時間変更予定"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-28",
+              "start": "09:35",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-28",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-28",
+              "start": "19:20",
+              "end": "21:16",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-29",
+              "start": "09:35",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-29",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-29",
+              "start": "19:20",
+              "end": "21:16",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-30",
+              "start": "09:35",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-30",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-30",
+              "start": "19:20",
+              "end": "21:16",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-01",
+              "start": "09:35",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-01",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-01",
+              "start": "19:00",
+              "end": "20:58",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-02",
+              "start": "09:35",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-02",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-02",
+              "start": "19:00",
+              "end": "20:58",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-03",
+              "start": "09:35",
+              "end": "11:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-03",
+              "start": "13:15",
+              "end": "15:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-03",
+              "start": "18:40",
+              "end": "20:38",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-04",
+              "start": "09:15",
+              "end": "11:14",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-04",
+              "start": "13:05",
+              "end": "15:03",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-04",
+              "start": "17:15",
+              "end": "19:10",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "魂のきせき",
+          "label": null,
+          "ends_on": "2026-12-11",
+          "notes": [
+            "★11/29(日)上映後、小林茂監督トーク！",
+            ">>詳細",
+            "(トーク回招待券不可)",
+            "※12/5(土)～上映時間変更予定",
+            "※12/11(金)終了",
+            "＜UDCAST対応＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-28",
+              "start": "13:50",
+              "end": "15:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-29",
+              "start": "13:50",
+              "end": "16:05",
+              "end_note": "上映＆トーク終了16:05★",
+              "work": null
+            },
+            {
+              "date": "2026-11-30",
+              "start": "13:50",
+              "end": "15:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-01",
+              "start": "13:50",
+              "end": "15:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-02",
+              "start": "13:50",
+              "end": "15:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-03",
+              "start": "13:50",
+              "end": "15:34",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-04",
+              "start": "11:15",
+              "end": "12:59",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "日曜のあと",
+          "label": null,
+          "ends_on": "2026-12-11",
+          "notes": [
+            "※12/5(土)～上映時間変更予定",
+            "※12/11(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-28",
+              "start": "11:40",
+              "end": "13:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-29",
+              "start": "11:40",
+              "end": "13:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-30",
+              "start": "11:40",
+              "end": "13:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-01",
+              "start": "11:40",
+              "end": "13:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-02",
+              "start": "11:40",
+              "end": "13:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-03",
+              "start": "11:40",
+              "end": "13:09",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-04",
+              "start": "11:20",
+              "end": "12:49",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ブルネロ 静かなる先見者",
+          "label": null,
+          "ends_on": "2026-12-11",
+          "notes": [
+            "※12/5(土)～上映時間変更予定",
+            "※12/11(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-28",
+              "start": "11:30",
+              "end": "13:43",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-29",
+              "start": "11:30",
+              "end": "13:43",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-30",
+              "start": "11:30",
+              "end": "13:43",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-01",
+              "start": "11:30",
+              "end": "13:43",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-02",
+              "start": "11:30",
+              "end": "13:43",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-03",
+              "start": "11:30",
+              "end": "13:43",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-04",
+              "start": "14:55",
+              "end": "17:10",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "マルセル＆ムッシュ・パニョル",
+          "label": null,
+          "ends_on": "2026-12-04",
+          "notes": [
+            "※12/4(金)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-28",
+              "start": "17:30",
+              "end": "19:05",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-29",
+              "start": "16:10",
+              "end": "17:45",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-11-30",
+              "start": "17:30",
+              "end": "19:05",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-12-01",
+              "start": "17:30",
+              "end": "19:05",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-12-02",
+              "start": "17:30",
+              "end": "19:05",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-12-03",
+              "start": "17:30",
+              "end": "19:05",
+              "end_note": "予告2分",
+              "work": null
+            },
+            {
+              "date": "2026-12-04",
+              "start": "09:35",
+              "end": "11:10",
+              "end_note": "予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "憎しみ",
+          "label": null,
+          "ends_on": "2026-12-03",
+          "notes": [
+            "★初日11/28(土)1995年フランス公開版復刻A3ポスタープレゼント！",
+            ">>詳細",
+            "(先着限定/有料で映画をご覧の方に限ります)",
+            "※12/3(木)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-28",
+              "start": "15:40",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-29",
+              "start": "17:50",
+              "end": "19:35",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-30",
+              "start": "15:40",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-01",
+              "start": "15:40",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-02",
+              "start": "15:40",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-03",
+              "start": "15:40",
+              "end": "17:25",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "平行と垂直",
+          "label": null,
+          "ends_on": "2026-11-29",
+          "notes": [
+            "※11/29(日)終了",
+            "＜HELLO!MOVIE対応＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-28",
+              "start": "09:20",
+              "end": "11:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-29",
+              "start": "09:20",
+              "end": "11:24",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "アット・ザ・ベンチ』アンコール上映",
+          "label": "11/28(土)⇒12/3(木)",
+          "ends_on": "2026-12-03",
+          "notes": [
+            "※12/3(木)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-28",
+              "start": "15:20",
+              "end": "16:54",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-29",
+              "start": "15:20",
+              "end": "16:54",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-11-30",
+              "start": "15:20",
+              "end": "16:54",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-01",
+              "start": "15:20",
+              "end": "16:54",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-02",
+              "start": "15:20",
+              "end": "16:54",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-03",
+              "start": "15:20",
+              "end": "16:54",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "NAZA ナザ』追加上映",
+          "label": "11/30(月)⇒12/3(木)",
+          "ends_on": "2026-12-03",
+          "notes": [
+            "※12/3(木)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-30",
+              "start": "09:55",
+              "end": "11:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-01",
+              "start": "09:55",
+              "end": "11:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-02",
+              "start": "09:55",
+              "end": "11:24",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-03",
+              "start": "09:55",
+              "end": "11:24",
+              "end_note": null,
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ジム・ジャームッシュ レトロスペクティブ』アンコール上映",
+          "label": "11/28(土)⇒12/3(木)",
+          "ends_on": "2026-12-03",
+          "notes": [
+            "●通常料金",
+            "※招待券不可",
+            "※12/3(木)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-28",
+              "start": "17:00",
+              "end": "19:15",
+              "end_note": null,
+              "work": "ナイト・オン・ザ・プラネット"
+            },
+            {
+              "date": "2026-11-29",
+              "start": "17:00",
+              "end": "19:09",
+              "end_note": null,
+              "work": "パターソン"
+            },
+            {
+              "date": "2026-11-30",
+              "start": "17:00",
+              "end": "19:15",
+              "end_note": null,
+              "work": "ナイト・オン・ザ・プラネット"
+            },
+            {
+              "date": "2026-12-01",
+              "start": "17:00",
+              "end": "18:55",
+              "end_note": "予告2分",
+              "work": "ミステリー・トレイン"
+            },
+            {
+              "date": "2026-12-02",
+              "start": "17:00",
+              "end": "18:55",
+              "end_note": null,
+              "work": "ダウン・バイ・ロー"
+            },
+            {
+              "date": "2026-12-03",
+              "start": "17:00",
+              "end": "18:35",
+              "end_note": null,
+              "work": "ストレンジャー・ザン・パラダイス"
+            },
+            {
+              "date": "2026-12-03",
+              "start": "19:10",
+              "end": "21:15",
+              "end_note": null,
+              "work": "パターソン"
+            }
+          ]
+        },
+        {
+          "title": "指名手配 非情の3作品",
+          "label": "11/28(土)⇒12/2(水)",
+          "ends_on": "2026-12-02",
+          "notes": [
+            "★3作品完走で先着プレゼントが！",
+            ">>詳細",
+            "●通常料金",
+            "●日曜日は18:00以降の回￥1300",
+            "※招待券不可",
+            "※『エヴィレンコ』PG12",
+            "※『アングスト/不安』R15+",
+            "※12/2(水)終了"
+          ],
+          "showings": [
+            {
+              "date": "2026-11-28",
+              "start": "19:10",
+              "end": "21:13",
+              "end_note": null,
+              "work": "エヴィレンコ"
+            },
+            {
+              "date": "2026-11-29",
+              "start": "19:40",
+              "end": "21:40",
+              "end_note": "予告なし",
+              "work": "エヴィレンコ"
+            },
+            {
+              "date": "2026-11-30",
+              "start": "19:10",
+              "end": "21:13",
+              "end_note": null,
+              "work": "エヴィレンコ"
+            },
+            {
+              "date": "2026-12-01",
+              "start": "19:10",
+              "end": "20:40",
+              "end_note": null,
+              "work": "ヘンリー"
+            },
+            {
+              "date": "2026-12-02",
+              "start": "19:10",
+              "end": "20:44",
+              "end_note": null,
+              "work": "アングスト/不安"
+            }
+          ]
+        },
+        {
+          "title": "ピリオン",
+          "label": "12/4(金)公開",
+          "ends_on": null,
+          "notes": [
+            "※12/5(土)～上映時間変更予定",
+            "＜R15+＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-12-04",
+              "start": "12:55",
+              "end": "14:50",
+              "end_note": null,
+              "work": null
+            },
+            {
+              "date": "2026-12-04",
+              "start": "19:15",
+              "end": "21:05",
+              "end_note": "予告1分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "ルックバック",
+          "label": "12/4(金)公開",
+          "ends_on": null,
+          "notes": [
+            "★上映後、是枝裕和監督ティーチイン！",
+            "●入場整理番号付チケット1800円(KINO会員1600円)",
+            "シアターキノ窓口にて発売中！",
+            "※お席分のチケットが売切れましたら当日券の発売はありません。",
+            "※12/5(土)～上映時間変更予定",
+            "＜HELLO!MOVIE対応＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-12-04",
+              "start": "15:20",
+              "end": "17:45",
+              "end_note": "上映＆トーク終了17:45/予告2分",
+              "work": null
+            }
+          ]
+        },
+        {
+          "title": "箱の中の羊",
+          "label": "12/4(金)公開",
+          "ends_on": null,
+          "notes": [
+            "★上映後、是枝裕和監督ティーチイン！",
+            "●入場整理番号付チケット1800円(KINO会員1600円)",
+            "シアターキノ窓口にて発売中！",
+            "※お席分のチケットが売切れましたら当日券の発売はありません。",
+            "※12/5(土)～上映時間変更予定",
+            "＜HELLO!MOVIE対応＞"
+          ],
+          "showings": [
+            {
+              "date": "2026-12-04",
+              "start": "18:00",
+              "end": "20:50",
+              "end_note": "上映＆トーク終了20:50/予告1分",
               "work": null
             }
           ]
